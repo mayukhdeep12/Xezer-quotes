@@ -59,6 +59,7 @@ h1 {
     margin-top: 50px;
 }
 @media (max-width: 768px) {
+    
     .videoHeader {
       left: 5%;
       right: 5%;
@@ -167,3 +168,13 @@ h1 {
         left: 300px;
     }
 }
+.app__footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
